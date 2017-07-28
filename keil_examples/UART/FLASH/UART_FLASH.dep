@@ -1,0 +1,22 @@
+Dependencies for Project 'UART', Target 'FLASH': (DO NOT MODIFY !)
+F (..\common\src\startup_LPC17xx.s)(0x4D2486D4)(--cpu Cortex-M3 -g --apcs=interwork -I ..\common\inc-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\NXP--pd "__UVISION_VERSION SETA 520"--list .\flash\startup_lpc17xx.lst --xref -o .\flash\startup_lpc17xx.o --depend .\flash\startup_lpc17xx.d)
+F (..\common\src\system_LPC17xx.c)(0x4D2486D4)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\common\inc-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\NXP-D__UVISION_VERSION="520"-o .\flash\system_lpc17xx.o --omf_browse .\flash\system_lpc17xx.crf --depend .\flash\system_lpc17xx.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419C0A2)
+I (..\common\inc\LPC17xx.h)(0x4D2486D4)
+I (..\common\inc\core_cm3.h)(0x4D2486D4)
+I (..\common\inc\system_LPC17xx.h)(0x4D2486D4)
+F (.\uart.c)(0x4CF4F000)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\common\inc-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\NXP-D__UVISION_VERSION="520"-o .\flash\uart.o --omf_browse .\flash\uart.crf --depend .\flash\uart.d)
+I (..\common\inc\lpc17xx.h)(0x4D2486D4)
+I (..\common\inc\core_cm3.h)(0x4D2486D4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419C0A2)
+I (..\common\inc\system_LPC17xx.h)(0x4D2486D4)
+I (..\common\inc\type.h)(0x4D2486D4)
+I (uart.h)(0x4CF4F000)
+F (.\uarttest.c)(0x5979C794)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\common\inc-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\NXP-D__UVISION_VERSION="520"-o .\flash\uarttest.o --omf_browse .\flash\uarttest.crf --depend .\flash\uarttest.d)
+I (..\common\inc\lpc17xx.h)(0x4D2486D4)
+I (..\common\inc\core_cm3.h)(0x4D2486D4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419C0A2)
+I (..\common\inc\system_LPC17xx.h)(0x4D2486D4)
+I (..\common\inc\type.h)(0x4D2486D4)
+I (uart.h)(0x4CF4F000)
+F (.\Abstract.txt)(0x4D26DA10)()
